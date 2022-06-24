@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/bg_answer.xml" value="0.173" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/bg_button_primary.xml" value="0.155" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/bg_button_secondary.xml" value="0.155" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/bg_correct_answer.xml" value="0.173" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/bg_incorrect_answer.xml" value="0.173" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/circle_background.xml" value="0.154" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/custom_progress.xml" value="0.1" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/gradiation_black.xml" value="0.1" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_back.xml" value="0.2435" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.2435" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_baseline_emoji_events_24.xml" value="0.2435" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.1675" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1225" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_baseline_workspace_premium_24.xml" value="0.2435" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_ecology.xml" value="0.188" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1225" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_play_trivia.xml" value="0.2435" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/like_white_120dp.xml" value="0.1" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/overlay_black.xml" value="0.1" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/skip_white_120dp.xml" value="0.1" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/fragment_fin.xml" value="0.152" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/fragment_menu.xml" value="0.176" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/fragment_quiz.xml" value="0.264" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/fragment_ranking.xml" value="0.264" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/item_question.xml" value="0.2" />
+        <entry key="..\:/Users/christian/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/item_ranking.xml" value="0.6" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

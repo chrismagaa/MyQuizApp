@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="txt_comenzar_a_jugar">COMENZAR A JUGAR</string>
+    <string name="tv_ranking">RANKING</string>
+    <string name="txt_siguiente">SIGUIENTE</string>
+    <string name="txt_puntaje">PUNTAJE</string>
+    <string name="txt_tu_puntuacion">Tu puntuación</string>
+    <string name="txt_compartir_resultados">Compartir resultados</string>
+    <string name="txt_volver_a_jugar">Volver a jugar</string>
+    <string name="txt_pregunta_numero">Pregunta 0 de 10</string>
+    <string name="txt_nombre">TÚ NOMBRE</string>
+    <string name="btn_continuar">CONTINUAR</string>
+
+    <string name="instrucciones">Resuelve las siguientes 10 preguntas en el menor tiempo posible. Dispondras de 60 segundos
+    por pregunta.</string>
+    <string name="txt_jugar">JUGAR</string>
+</resources>
