@@ -7,3 +7,7 @@ Quiz con preguntas de ecologia.
 
 ## Screenshots
 ![screenshot](https://github.com/chrismagaa/MyQuizApp/blob/master/screenshots.png)
+
+## Descargar
+
+ Desacarga la aplicación .apk [aquí](https://github.com/chrismagaa/MyQuizApp/raw/master/app/release/app-release.apk)
